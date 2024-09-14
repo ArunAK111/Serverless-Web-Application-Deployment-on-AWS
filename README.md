@@ -20,7 +20,11 @@ A serverless web application built using **AWS services** to efficiently handle 
 
 ## Folder Structure
 
-├── getStudents.py # Lambda function to retrieve data from DynamoDB ├── insertStudentData.py # Lambda function to insert new data into DynamoDB ├── index.html # Static web content ├── scripts.js # Client-side logic └── README.md # Project documentation
+- `README.md` – Project documentation
+- `getStudents.py` – Lambda function to retrieve data from DynamoDB
+- `insertStudentData.py` – Lambda function to insert new data into DynamoDB
+- `index.html` – Static web content (HTML)
+- `scripts.js` – Client-side logic (JavaScript)
 
 
 ## How It Works
